@@ -1,4 +1,4 @@
-<h1>With this repository, you will have a full Wordpress installation</h1>
+<h1>With this repository, you will have a full Wordpress installation ready to use</h1>
 
 
 <h3>How vagrant works</h3>
