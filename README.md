@@ -1,13 +1,19 @@
 <h1>With this repository, you will have a full Wordpress installation ready to use</h1>
 
+<h3>What's Vagrant?</h3>
 
-<h3>How vagrant works</h3>
+- Vagrant is a tool for building and managing virtual machine environments in a single workflow. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time, increases production parity, and makes the "works on my machine" excuse a relic of the past.
 
-- vagrant up wordpress  -> Will create and bring up the Virtual Machine
+
+<h3>How it works</h3>
+
+- You will need to have VirtualBox installed.
+- Get into the folder where the Vagrantfile is.
+- config.vm.define "wordpress", therefore you will need to perform a vagrant up wordpress. This will bring up the Virtual Machine
 
       After bringing up the wordpress machine, you will be immediately able to connect to wordpress. 
       
-- vagrant ssh wordpress -> In case you need to connect to it.
+- vagrant ssh wordpress -> In case you need to connect directly to it.
 
 
 <h3>Wordpress</h3>
